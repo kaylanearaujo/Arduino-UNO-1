@@ -19,7 +19,7 @@ Principais características da placa:
  
 
 ## Drivers
-*Conecte a sua place e aguarde até que o Windows inicie o processo de instalação de drivers. Depois de alguns instantes, o processo irá falhar.
+*Conecte a sua placa e aguarde até que o Windows inicie o processo de instalação de drivers. Depois de alguns instantes, o processo irá falhar.
 
 *Clique no menu iniciar e vá até o Painel de Controle.
 
